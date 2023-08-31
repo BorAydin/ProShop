@@ -19,7 +19,7 @@ const Header = () => {
             <Nav className="ms-auto">
               <LinkContainer to="/cart">
                 <Nav.Link>
-                  <FaShoppingCart /> Kart
+                  <FaShoppingCart /> Sepet
                 </Nav.Link>
               </LinkContainer>
               <LinkContainer to="/login">
